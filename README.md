@@ -1,1 +1,3 @@
 # gridRandom
+
+![Screenshot](screenshot.png)
